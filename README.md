@@ -19,7 +19,7 @@ This website it's been deployed and made available to the public thanks to [Code
 ## Built With
 
 * [React.js](https://reactjs.org/) - Your favourite framework! (Mine is Solid.js but if you like React it's pretty easy to update.)
-* [Sass](https://sass-lang.com/) - Sassy Awesome Style Sheets, CSS with Super Powers, your favourite preprocessor. 
+* [Sass](https://sass-lang.com/) - Sassy Awesome Style Sheets, CSS with Super Powers, your favourite CSS preprocessor. 
 * [Axios](https://axios-http.com/) - Fetch, APIS.
 * [React Router v6](https://reactrouter.com/) - When you just want to take the easy road.
 * [HTML](https://html.com/) - Your Markup Languaje
